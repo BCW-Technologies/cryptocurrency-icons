@@ -28,6 +28,9 @@ You can pull the current pricing of all coins in existence by hitting this endpo
 
 ## List of all the coin icons
 
+* [zenrock.png](https://coinmarketcap.com/currencies/zenrock "Zenrock (ROCK)") ![Zenrock](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/zenrock.png "Zenrock (ROCK)")
+* [nillion.png](https://coinmarketcap.com/currencies/nillion "Nillion (NILL)") ![Nillion](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/nillion.png "Nillion (NILL)")
+---
 * [bitcoin.png](https://cryptocurrencyliveprices.com/coin.php?id=bitcoin "Bitcoin (BTC)") ![Bitcoin](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/bitcoin.png "Bitcoin (BTC)")
 * [ethereum.png](https://cryptocurrencyliveprices.com/coin.php?id=ethereum "Ethereum (ETH)") ![Ethereum](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/ethereum.png "Ethereum (ETH)")
 * [tether.png](https://cryptocurrencyliveprices.com/coin.php?id=tether "Tether (USDT)") ![Tether](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/tether.png "Tether (USDT)")
@@ -2328,8 +2331,6 @@ You can pull the current pricing of all coins in existence by hitting this endpo
 * [obee-network.png](https://cryptocurrencyliveprices.com/coin.php?id=obee-network "Obee Network (OBEE)") ![Obee Network](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/obee-network.png "Obee Network (OBEE)")
 * [bitwhite.png](https://cryptocurrencyliveprices.com/coin.php?id=bitwhite "BitWhite (BTW)") ![BitWhite](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/bitwhite.png "BitWhite (BTW)")
 * [proxynode.png](https://cryptocurrencyliveprices.com/coin.php?id=proxynode "ProxyNode (PRX)") ![ProxyNode](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/proxynode.png "ProxyNode (PRX)")
-* [zenrock.png](https://coinmarketcap.com/currencies/zenrock "Zenrock (ROCK)") ![Zenrock](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/zenrock.png "Zenrock (ROCK)")
-
 
 ## Licence
 Released under [The MIT License](LICENSE)
