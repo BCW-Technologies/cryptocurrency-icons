@@ -28,8 +28,9 @@ You can pull the current pricing of all coins in existence by hitting this endpo
 
 ## List of all the coin icons
 
-* [zenrock.png](https://coinmarketcap.com/currencies/zenrock "Zenrock (ROCK)") ![Zenrock](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/zenrock.png "Zenrock (ROCK)")
+* [kaia.png](https://coinmarketcap.com/currencies/kaia "Kaia (KAIA)") ![Kaia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/kaia.png "Kaia (KAIA)")
 * [nillion.png](https://coinmarketcap.com/currencies/nillion "Nillion (NILL)") ![Nillion](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/nillion.png "Nillion (NILL)")
+* [zenrock.png](https://coinmarketcap.com/currencies/zenrock "Zenrock (ROCK)") ![Zenrock](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/zenrock.png "Zenrock (ROCK)")
 ---
 * [bitcoin.png](https://cryptocurrencyliveprices.com/coin.php?id=bitcoin "Bitcoin (BTC)") ![Bitcoin](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/bitcoin.png "Bitcoin (BTC)")
 * [ethereum.png](https://cryptocurrencyliveprices.com/coin.php?id=ethereum "Ethereum (ETH)") ![Ethereum](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/ethereum.png "Ethereum (ETH)")
