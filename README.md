@@ -28,6 +28,8 @@ You can pull the current pricing of all coins in existence by hitting this endpo
 
 ## List of all the coin icons
 
+* [somnia.png](https://coinmarketcap.com/currencies/somnia "Somnia (SOMI)") ![Somnia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/somnia.png "Somnia (SOMI)")
+* [haven1.png](https://coinmarketcap.com/currencies/haven1 "Haven1 (H1)") ![Haven1](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/haven1.png "Haven1 (H1)")
 * [kaia.png](https://coinmarketcap.com/currencies/kaia "Kaia (KAIA)") ![Kaia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/kaia.png "Kaia (KAIA)")
 * [nillion.png](https://coinmarketcap.com/currencies/nillion "Nillion (NILL)") ![Nillion](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/nillion.png "Nillion (NILL)")
 * [zenrock.png](https://coinmarketcap.com/currencies/zenrock "Zenrock (ROCK)") ![Zenrock](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/zenrock.png "Zenrock (ROCK)")
