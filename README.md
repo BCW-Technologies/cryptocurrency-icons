@@ -1,30 +1,27 @@
 # Cryptocurrency Icons
-**The official cryptocurrency icon pack for all your favourite cryptocurrencies.**
 
-This repository contains all the cryptocurrency icons available on [coinmarketcap.com](https://cryptocurrencyliveprices.com/)
+## Change the priority of coin resolver
 
-## Donations
-**This is all voluntary work**, so if you want to support my efforts [please donate](https://erikthiart.com/donate-or-buy-me-coffee.php). 
+Networks may have multiple coins with the same symbol or name. To change the priority of the coin resolver, move the intended coin icon to the top of the array in the `coin_map.json` file. For example, https://github.com/BCW-Technologies/cryptocurrency-icons/commit/8422699a2cc8d62a19eaa9b90f3e4338f8468a2d shows a commit where `coin_map.json` was changed to prioritize the Solana coin icon over the other Solana coin icons.
 
-Donation addresses are found below (if you don't see your coin, let me know and I'll send the address afterwards) alternatively you can use paypal too [paypal.me/erikthiart](https://paypal.me/erikthiart)
+## Add a new coin icon
 
-Bitcoin Address QR Code            |  Ethereum Address QR Code         |  Litecoin Address QR Code
-:-------------------------:|:-------------------------:|:-------------------------:
-![Bitcoin Address](meta/erik-thiart-bitcoin-address.png)  |  ![Ethereum Address](meta/erik-thiart-ethereum-address.png) | ![Litecoin Address](meta/erik-thiart-litecoin-address.png)
+1. Find a high-quality version of the network icon, ideally 128px or larger. Ensure that the logo is square, and only contains the logo without text, usually called a glyph.
+2. Convert the icon to a 16x16, 32x32, 64x64, and 128x128 pixel icon.
+3. Place the icons in the appropriate directories.
+4. Append to the top of the array of `coin_map.json` with the new icon using the following format:
 
-**BTC**: 1GeXS8t5KtYvyMAf5hhwtdxM9Ba9EWQqMz
+```
+{"name":"Somnia","symbol":"SOMI","slug":"somnia","img_url":"https:\/\/raw.githubusercontent.com\/BCW-Technologies\/cryptocurrency-icons\/master\/128\/somnia.png"},
+```
 
-**ETH**: 0x023f29596Bf80c521C906f80ee305fADc3B1Be3C
+5. Append to the top of the list below with the newly added icon using the following format:
 
-**LTC**: LcNa8XKqimLjXDGck7dPnxEjENPm9t6r3H
+```
+* [somnia.png](https://coinmarketcap.com/currencies/somnia "Somnia (SOMI)") ![Somnia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/somnia.png "Somnia (SOMI)")
+```
 
-## Screenshot
-![Cryptocoins Preview](meta/cryptocurrency-icons-pack.png)
-
-## Cryptocurrency API
-I also maintain the [Coindata](https://cryptocurrencyliveprices.com/) website and decided to make it's API available to the public. 
-### ToDo
-You can pull the current pricing of all coins in existence by hitting this endpoint: ```https://cryptocurrencyliveprices.com/api/```
+A sample commit can be found here: https://github.com/BCW-Technologies/cryptocurrency-icons/commit/b6e3b886c19de30394cc38fc04058989ddb236c2
 
 ## List of all the coin icons
 
