@@ -25,6 +25,7 @@ A sample commit can be found here: https://github.com/BCW-Technologies/cryptocur
 
 ## List of all the coin icons
 
+* [eigenlayer.png](https://coinmarketcap.com/currencies/eigenlayer "EigenLayer (EIGEN)") ![EigenLayer](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/eigenlayer.png "EigenLayer (EIGEN)")
 * [somnia.png](https://coinmarketcap.com/currencies/somnia "Somnia (SOMI)") ![Somnia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/somnia.png "Somnia (SOMI)")
 * [haven1.png](https://coinmarketcap.com/currencies/haven1 "Haven1 (H1)") ![Haven1](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/haven1.png "Haven1 (H1)")
 * [kaia.png](https://coinmarketcap.com/currencies/kaia "Kaia (KAIA)") ![Kaia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/kaia.png "Kaia (KAIA)")
