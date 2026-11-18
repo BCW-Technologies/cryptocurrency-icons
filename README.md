@@ -25,6 +25,7 @@ A sample commit can be found here: https://github.com/BCW-Technologies/cryptocur
 
 ## List of all the coin icons
 
+* [arc-network.png](https://www.arc.network "Arc (ARC)") ![Arc](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/arc-network.png "Arc (ARC)")
 * [midnight.png](https://coinmarketcap.com/currencies/midnight-network "Midnight (NIGHT)") ![Midnight](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/midnight.png "Midnight (NIGHT)")
 * [eigenlayer.png](https://coinmarketcap.com/currencies/eigenlayer "EigenLayer (EIGEN)") ![EigenLayer](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/eigenlayer.png "EigenLayer (EIGEN)")
 * [somnia.png](https://coinmarketcap.com/currencies/somnia "Somnia (SOMI)") ![Somnia](https://raw.githubusercontent.com/BCW-Technologies/cryptocurrency-icons/master/16/somnia.png "Somnia (SOMI)")
